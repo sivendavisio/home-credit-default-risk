@@ -10,6 +10,6 @@ It includes data cleaning, feature engineering, handling imbalanced classes, and
 - Data merging from multiple sources (`application`, `bureau`, `previous_application`, etc.)
 - Feature engineering and aggregation
 - Handling imbalanced target with SMOTE and class weights
-- Model training using LightGBM
+- Model training using CatBoost and Logistic Regression
 - Evaluation using AUC and precision-recall metrics
 
